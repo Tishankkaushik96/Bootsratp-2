@@ -1,0 +1,1 @@
+This project is a simple and responsive College Registration and Login Website built using Bootstrap. It includes a homepage, registration form, and login page with a clean UI and mobile-friendly design.
